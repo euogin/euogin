@@ -1,6 +1,6 @@
 <h1 align="center">Oi, eu sou o Guilherme Elias 👋</h1>
 
-<h3 align="center">Desenvolvedor Web apaixonado por criar soluções criativas e funcionais para desafios de programação</h3>
+<h3 align="center">Desenvolvedor Web Jr. apaixonado por criar soluções criativas e funcionais para desafios de programação</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-elias/" target="_blank">
